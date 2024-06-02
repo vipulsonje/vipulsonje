@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I am a Student Ambassador at The University of Texas at Dallas, where I am pursuing a Master of Science in Information Technology. My goal is to apply my passion, analytical skills, and data-driven mindset to solve complex business challenges and drive organizational growth.
+
+I am a data scientist with four years of impactful consulting experience at Deloitte in analyzing data, building predictive models and interactive dashboards.
+
+I am excited about the transformative power of data and its ability to revolutionize decision-making processes. 
+Whether it's uncovering hidden patterns, optimizing operations, or driving strategic initiatives, I am dedicated to leveraging data to unlock new possibilities and create value. 
+I am eager to connect with like-minded professionals, share insights, and explore potential collaborations that bridge the gap between consulting expertise and the transformative potential of data science.
+
+📫 How to reach me
 <!--
 **vipulsonje/vipulsonje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
