@@ -1,6 +1,6 @@
 ## Helloooo👋
 
-I am a Student at The University of Texas at Dallas, where I am pursuing a Master of Science in Information Technology and Management. 
+I am a graduate student at The University of Texas at Dallas, where I am pursuing a Master of Science in Information Technology and Management. 
 My goal is to apply my passion, analytical skills, and data-driven mindset to solve complex business challenges and drive organizational growth.
 
 I am a data scientist with four years of impactful consulting experience at Deloitte in analyzing data, building predictive models and interactive dashboards.
