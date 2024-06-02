@@ -1,6 +1,6 @@
 ## Helloooo👋
 
-I am a Student Ambassador at The University of Texas at Dallas, where I am pursuing a Master of Science in Information Technology. My goal is to apply my passion, analytical skills, and data-driven mindset to solve complex business challenges and drive organizational growth.
+I am a Student at The University of Texas at Dallas, where I am pursuing a Master of Science in Information Technology and Management. My goal is to apply my passion, analytical skills, and data-driven mindset to solve complex business challenges and drive organizational growth.
 
 I am a data scientist with four years of impactful consulting experience at Deloitte in analyzing data, building predictive models and interactive dashboards.
 
@@ -24,7 +24,7 @@ LinkedIn: www.linkedin.com/in/vipul-sonje/
 
 ⚡ Fun fact about me
 
-I am a national level Abacus Champion which makes me quicker than a Calculator in certain calculations.
+I am a national-level ABACUS champion, which makes me quicker than a calculator in certain calculations.
 
 <!--
 **vipulsonje/vipulsonje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
