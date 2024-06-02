@@ -12,7 +12,9 @@ I am eager to connect with like-minded professionals, share insights, and explor
 💬 Ask me about
 
 Data Science
+
 Machine Learning
+
 Artificial Intelligence
 
 📫 How to reach me
