@@ -6,9 +6,24 @@ I am a data scientist with four years of impactful consulting experience at Delo
 
 I am excited about the transformative power of data and its ability to revolutionize decision-making processes. 
 Whether it's uncovering hidden patterns, optimizing operations, or driving strategic initiatives, I am dedicated to leveraging data to unlock new possibilities and create value. 
+
 I am eager to connect with like-minded professionals, share insights, and explore potential collaborations that bridge the gap between consulting expertise and the transformative potential of data science.
 
+💬 Ask me about
+
+Data Science
+Machine Learning
+Artificial Intelligence
+
 📫 How to reach me
+
+Email: vipulsonje@gmail.com
+LinkedIn: www.linkedin.com/in/vipul-sonje/
+
+⚡ Fun fact about me
+
+I am a national level Abacus Champion which makes me quicker than a Calculator in certain calculations.
+
 <!--
 **vipulsonje/vipulsonje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
