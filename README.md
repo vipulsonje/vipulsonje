@@ -1,4 +1,4 @@
-## Hi there 👋
+## Helloooo👋
 
 I am a Student Ambassador at The University of Texas at Dallas, where I am pursuing a Master of Science in Information Technology. My goal is to apply my passion, analytical skills, and data-driven mindset to solve complex business challenges and drive organizational growth.
 
