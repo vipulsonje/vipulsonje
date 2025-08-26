@@ -27,6 +27,8 @@ LinkedIn: www.linkedin.com/in/vipul-sonje/
 
 I am a national-level ABACUS champion, which makes me quicker than a calculator in certain calculations.
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vipulsonje)
+
 <!--
 **vipulsonje/vipulsonje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
